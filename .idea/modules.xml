@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Curso Java/Curso Java.iml" filepath="$PROJECT_DIR$/Curso Java/Curso Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 10 - Comportamento/Section 10 - Comportamento.iml" filepath="$PROJECT_DIR$/Section 10 - Comportamento/Section 10 - Comportamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 10 - Comportamento/src/Section 10 - Comportamento1.iml" filepath="$PROJECT_DIR$/Section 10 - Comportamento/src/Section 10 - Comportamento1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 11 - Java Data Hora/Section 11 - Java Data Hora.iml" filepath="$PROJECT_DIR$/Section 11 - Java Data Hora/Section 11 - Java Data Hora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 13 - Enumeracoes/Section 13 - Enumeracoes.iml" filepath="$PROJECT_DIR$/Section 13 - Enumeracoes/Section 13 - Enumeracoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 8 - Ex Fixacao/Section 8 - Ex Fixacao.iml" filepath="$PROJECT_DIR$/Section 8 - Ex Fixacao/Section 8 - Ex Fixacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section 9 - Construtores/Section 9 - Construtores.iml" filepath="$PROJECT_DIR$/Section 9 - Construtores/Section 9 - Construtores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/course/course.iml" filepath="$PROJECT_DIR$/course/course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/inteliji.iml" filepath="$PROJECT_DIR$/.idea/inteliji.iml" />
+      <module fileurl="file://$PROJECT_DIR$/livroEntendendoAlgoritmosExamples/livroEntendendoAlgoritmosExamples.iml" filepath="$PROJECT_DIR$/livroEntendendoAlgoritmosExamples/livroEntendendoAlgoritmosExamples.iml" />
+    </modules>
+  </component>
+</project>
